@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Surinder Jungral</span>
         👋
         <br />
-        DevOps and Cloud Technology Enthusiast | Hands-On Experience with AWS, Docker, GenAIOps, AI, ML, and Linux
+        DevOps and Cloud Technology Enthusiast
       </h1>
     );
 
