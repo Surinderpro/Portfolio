@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Surinder Jungral</span>
         👋
         <br />
-        A Web Developer
+        DevOps and Cloud Technology Enthusiast | Hands-On Experience with AWS, Docker, GenAIOps, AI, ML, and Linux
       </h1>
     );
 
@@ -18,7 +18,8 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          I'm a Web Developer <br />picked up many skills along the way
+           DevOps and Cloud Technology Enthusiast <br />
+        Hands-On Experience with AWS, Docker, GenAIOps, AI, ML, and Linux
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
