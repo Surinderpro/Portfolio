@@ -1,4 +1,5 @@
 import css from './css.svg'
+import aws from './aws.svg'
 import express from './express.svg'
 import git from './git.svg'
 import github from './github.svg'
@@ -22,6 +23,7 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 
 export {
+    aws,
     css,
     express,
     git,
