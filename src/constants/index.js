@@ -1,4 +1,6 @@
 import {
+    docker,
+    kubernetes,
     aws,
     contact,
     css,
@@ -64,6 +66,16 @@ export const skills = [
         imageUrl: aws,
         name: "AWS",
         type: "Cloud",
+    },
+    {
+        imageUrl: docker,
+        name: "Docker",
+        type: "DEVOPS",
+    },
+    {
+        imageUrl:kubernetes ,
+        name: "Kubernetes",
+        type: "DEVOPS",
     },
     {
         imageUrl: tailwindcss,
