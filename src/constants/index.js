@@ -18,6 +18,21 @@ import {
 
 export const skills = [
     {
+        imageUrl: docker,
+        name: "Docker",
+        type: "DevOps",
+    },
+    {
+        imageUrl:kubernetes ,
+        name: "Kubernetes",
+        type: "DevOps",
+    },
+     {
+        imageUrl: aws,
+        name: "AWS",
+        type: "Cloud",
+    },
+    {
         imageUrl: css,
         name: "CSS",
         type: "Frontend",
@@ -61,21 +76,6 @@ export const skills = [
         imageUrl: react,
         name: "React",
         type: "Frontend",
-    },
-    {
-        imageUrl: aws,
-        name: "AWS",
-        type: "Cloud",
-    },
-    {
-        imageUrl: docker,
-        name: "Docker",
-        type: "DEVOPS",
-    },
-    {
-        imageUrl:kubernetes ,
-        name: "Kubernetes",
-        type: "DEVOPS",
     },
     {
         imageUrl: tailwindcss,
