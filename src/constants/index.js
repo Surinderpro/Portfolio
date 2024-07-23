@@ -1,4 +1,5 @@
 import {
+    aws,
     contact,
     css,
     express,
@@ -58,6 +59,11 @@ export const skills = [
         imageUrl: react,
         name: "React",
         type: "Frontend",
+    },
+    {
+        imageUrl: aws,
+        name: "AWS",
+        type: "Cloud",
     },
     {
         imageUrl: tailwindcss,
