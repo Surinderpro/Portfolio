@@ -1,4 +1,6 @@
 import css from './css.svg'
+import docker from './docker.svg'
+import kubernetes from './kubernetes.svg'
 import aws from './aws.svg'
 import express from './express.svg'
 import git from './git.svg'
@@ -24,6 +26,8 @@ import soundoff from './soundoff.png'
 
 export {
     aws,
+    docker,
+    kubernetes,
     css,
     express,
     git,
